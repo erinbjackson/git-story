@@ -1,1 +1,1 @@
-This is my story. I want to add it to add it to my git repo. Hopefully this will work.
+This is my story - do you want to read it. I want to add it to add it to my git repo. Hopefully this will work.
